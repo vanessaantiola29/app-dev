@@ -1,9 +1,9 @@
 # app-dev
 My first repository
-| Syntax       | Description                 |
-| ------------ | --------------------------- |
-| Header       | True Blood                  |
-| Paragraph    | A vampire-human love story. |
+| Syntax       | Description                 | Movie details               |
+| ------------ | --------------------------- | --------------------------- |
+| Header       | Title                       | True Blood                  |
+| Paragraph    | Text                        | A vampire-human love story. |
 
 
 ```
