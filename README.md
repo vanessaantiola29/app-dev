@@ -1,12 +1,11 @@
 # app-dev
 My first repository
-| Syntax       | Description    |
-| ------------ | -------------- |
-| Header       | True Blood     |
+| Syntax       | Description                 |
+| ------------ | --------------------------- |
+| Header       | True Blood                  |
+| Paragraph    | A vampire-human love story. |
 
-| # H1 | Steamy | Ominous|
-| ## H2 | True Blood |
-| ### H3 | A vampire-human love story |
+
 ```
 //characters//
 {
