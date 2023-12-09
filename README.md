@@ -1,5 +1,6 @@
 # app-dev
 My first repository
+| Table                                                                    |
 | Syntax       | Description                 | Movie details               |
 | ------------ | --------------------------- | --------------------------- |
 | Header       | Title                       | True Blood                  |
