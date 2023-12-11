@@ -3,7 +3,7 @@ My first repository
 | Syntax       | Description                 | Movie details               |
 | ------------ | --------------------------- | --------------------------- |
 | Header       | Title                       | True Blood                  |
-| Paragraph    | Text                        | A vampire-human love story. |
+| Paragraph    | Text                        | A vampire-human love story. | 
 
 
 ```
