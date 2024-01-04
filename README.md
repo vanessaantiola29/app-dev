@@ -3,7 +3,7 @@ My first repository
 | Syntax       | Description                 | Movie details               |
 | ------------ | --------------------------- | --------------------------- |
 | Header       | Title                       | True Blood                  |
-| Paragraph    | Text                        | A vampire-human love story. | 
+| Paragraph    | About                       | A vampire-human love story. | 
 
 
 ```
@@ -18,4 +18,4 @@ My first repository
 }
 ```
 [true blood](https://www.netflix.com/search?q=tru&jbv=70157135)
-That is a nice movie series!  👍:
+That is a great movie series!  👍:
