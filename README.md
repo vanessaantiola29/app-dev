@@ -18,4 +18,4 @@ My first repository
 }
 ```
 [true blood](https://www.netflix.com/search?q=tru&jbv=70157135)
-That is a great movie series!  👍:
+This is a great movie series!  👍:
